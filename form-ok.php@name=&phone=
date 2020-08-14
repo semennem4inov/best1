@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+    <head>
+	
+        <meta charset="utf-8">
+        <title>Congratulations! Your order is accepted!</title>
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+        <style type="text/css">
+            body {
+                line-height: 1;
+                height: 100%;
+                font-family: Arial;
+                font-size: 15px;
+                color: #313e47;
+                width: 100%;
+                height: 100%;
+                padding: 0;
+                margin: 0;
+                background: url('bg-ok.png');
+            }
+            h2 {
+                margin: 0;
+                padding: 0;
+                font-size: 36px;
+                line-height: 44px;
+                color: #313e47;
+                text-align: center;
+                font-weight: bold;
+            }
+			h4 {
+				text-align: center;
+				line-height: 20px;
+				color: #336e7b;
+			}
+            a {
+                color: #69B9FF;
+            }
+            .list_info li span {
+                width: 150px;
+                display: inline-block;
+                font-weight: bold;
+                font-style: normal;
+            }
+            .list_info {
+               text-align: left;
+               display: inline-block;
+               list-style: none;
+               margin-top: -10px;
+               margin-bottom: -11px;
+            }
+            .list_info li {
+                margin: 11px 0px;
+            }
+            .fail {
+                margin: 10px 0 20px 0px;
+                text-align: center;
+            }
+            .email {
+                position: relative;
+                text-align: center;
+                margin-top: 40px;
+            }
+            .email input {
+                height: 30px;
+                width: 200px;
+                font-size: 14px;
+                padding-right: 10px;
+                padding-left: 10px;
+                outline: none;
+                -webkit-border-radius: 5px;
+                -moz-border-radius: 5px;
+                border-radius: 5px;
+                border: 1px solid #B6B6B6;
+                margin-bottom: 10px;
+            }
+            .block_success {
+                max-width: 960px;
+                padding: 70px 30px 70px 30px;
+                margin: -50px auto;
+            }
+            .success {
+                text-align: center;
+            }
+        </style>             
+		
+    </head>
+    <body>
+	
+        <div class="block_success">                 
+            <h2 style="text-transform: uppercase;">Congratulations! Your order is accepted!</h2>
+            <p class="success">
+                In the near future the operator will contact you to confirm the order. <!-- Please include your contact number. -->
+            </p>
+            <h3 class="success">
+                Please check that the information you entered is correct.
+            </h3>
+			<h4>
+                Name: <br/>
+                Phone:             </h4>
+            <p class="fail success">If you made a mistake while filling in the form, please, <a href="javascript: history.back(-1);">fill in the application again</a></p>
+            
+			
+			</div>
+		<!--<div>
+		
+		<a href="http://hublotgeneve.bigsell.com.ua/?utm_source=doprodazha"></div></a>
+		<a href="http://daytona.bigsell.com.ua/?utm_source=doprodazha"></div></a>
+		<a href="http://pantra.bigsell.com.ua/tissot-watch/?utm_source=doprodazha"></div></a>
+		
+		</div>
+		<div>
+		
+		<a href="http://krest-toretto.bigsell.com.ua/?utm_source=doprodazha"></div></a>
+		<a href="http://star-master.fishka1.com/?utm_source=doprodazha"></div></a>
+		<a href="http://www.bigsell.com.ua/polar/?utm_source=doprodazha"></div></a>
+		
+		</div>
+			
+        </div>
+		
+
+<script type="text/javascript">
+    var __gra = __gra || [];
+    __gra.mid = 10429;
+    (function() {
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "http:" + "//js.grt" + "01.com/" + "gra_min_new.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    })();
+</script>-->
+
+</body>
+</html>
